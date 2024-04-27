@@ -46,9 +46,16 @@ while True:
 ```
 ## OUPUT - ARP
 CLIENT.PY
+
+
+
 ![Screenshot 2024-04-27 182508](https://github.com/ZafreenJagir/2c.ARP_RARP_PROTOCOLS/assets/144870573/ba376c96-7f78-48b4-90f8-8ec108059367)
 
 SERVER.PY
+
+
+
+
 ![Screenshot 2024-04-27 182520](https://github.com/ZafreenJagir/2c.ARP_RARP_PROTOCOLS/assets/144870573/16edff92-d28e-4999-a8f9-f4367060c761)
 
 ## PROGRAM - RARP
@@ -83,9 +90,17 @@ while True:
 ```
 ## OUPUT -RARP
 CLIENT.PY
+
+
+
+
 ![Screenshot 2024-04-27 182846](https://github.com/ZafreenJagir/2c.ARP_RARP_PROTOCOLS/assets/144870573/b082ae43-93f7-4966-9699-6a0c35f07c3c)
 
 SERVER.PY
+
+
+
+
 ![Screenshot 2024-04-27 182906](https://github.com/ZafreenJagir/2c.ARP_RARP_PROTOCOLS/assets/144870573/3ec2d3cc-c0ed-4d5e-a1f5-7c94c0bdf4d1)
 
 
