@@ -77,7 +77,7 @@ while True:
 
 ```
 SERVER.PY
-```
+``` 
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
